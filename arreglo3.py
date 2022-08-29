@@ -12,3 +12,4 @@ for num in arreglo:
     suma += num
 
 print("La suma es", suma)
+print(" la suma con la funcion sum", sum(arreglo))
